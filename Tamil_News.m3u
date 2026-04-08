@@ -1,1 +1,40 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="PolimerNews.jpg", Polimer News
+https://live-cf-polimernews.dailyhunt.in/master.m3u8
+
+#EXTINF:-1 tvg-logo="PuthiyaTalaimurai.jpg", Puthiya Talaimurai
+https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="ThanthiNews.jpg", Thanthi News
+https://cdn-3.pishow.tv/live/1612/master.m3u8
+
+#EXTINF:-1 tvg-logo="News7Tamil.jpg", News 7 Tamil
+https://segment.yuppcdn.net/240122/news7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="News18TamilNadu.jpg", News 18 TamilNadu
+https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-logo="NewsTamil24x7.jpg", News Tamil 24x7
+https://cdn-3.pishow.tv/live/1433/master.m3u8
+
+#EXTINF:-1 tvg-logo="MalaiMurasu.jpg", Malai Murasu
+https://cdn-3.pishow.tv/live/1606/master.m3u8
+
+#EXTINF:-1 tvg-logo="NewsJ.jpg", News J
+https://cdn-3.pishow.tv/live/1279/master.m3u8
+
+#EXTINF:-1 tvg-logo="MNadu.jpg", M Nadu
+https://mumt01.tangotv.in/MNADU/index.m3u8
+
+#EXTINF:-1 tvg-logo="JanamTVTamil.jpg", Janam TV Tamil
+https://mumt01.tangotv.in/JANAMTVTAMIL/index.m3u8
+
+#EXTINF:-1 tvg-logo="KalaignarSeithigal.jpg", Kalaignar Seithigal
+https://live-cf-kalaignarnews.dailyhunt.in/master.m3u8
+
+#EXTINF:-1 tvg-logo="JayaPlus.jpg", Jaya Plus
+https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
+
+#EXTINF:-1 tvg-logo="SathiyamTV.jpg", Sathiyam TV
+https://live-cf-sathiyamtv.dailyhunt.in/master.m3u8
