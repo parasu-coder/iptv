@@ -111,6 +111,52 @@ https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8
 #EXTINF:-1 tvg-logo="CVRNewsEnglish.jpg" group-title="English", CVR News English
 https://cdn-2.pishow.tv/live/425/master.m3u8
 
+# --- WORLD ---
+#EXTINF:-1 tvg-logo="CNNInternational.jpg" group-title="World", CNN International
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+
+#EXTINF:-1 tvg-logo="BBCNews.jpg" group-title="World", BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-logo="ABCNewsUS.jpg" group-title="World", ABC News US
+https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
+
+#EXTINF:-1 tvg-logo="CNN.jpg" group-title="World", CNN US
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-logo="NBCNews.jpg" group-title="World", NBC News
+https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
+
+#EXTINF:-1 tvg-logo="CBSNews.jpg" group-title="World", CBS News
+https://dai.google.com/linear/hls/pb/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/90878570-8f23-425c-bd69-1541e1643787:TPE/master.m3u8
+
+#EXTINF:-1 tvg-logo="FoxNews.jpg" group-title="World", FOX News
+https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+
+#EXTINF:-1 tvg-logo="AlJazeera.jpg" group-title="World", Al Jazeera
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-logo="RTIndia.jpg" group-title="World", RT India
+https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="NHKWorld.jpg" group-title="World", NHK World
+https://nhk.lls.pbs.org/index.m3u8
+
+#EXTINF:-1 tvg-logo="CNANews.jpg" group-title="World", Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 tvg-logo="GlobalNewsCanada.jpg" group-title="World", Global News Canada
+https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/live-audio_1=96000-video=2499968.m3u8
+
+#EXTINF:-1 tvg-logo="DeutscheWelle.jpg" group-title="World", Deutsche Welle
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="France24.jpg" group-title="World", France 24
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-logo="NloombergTV.jpg" group-title="World", Bloomberg TV
+https://dai.google.com/linear/hls/pb/event/FvrjI2MQSs6_bNTURP2CaA/stream/9f2f2fc7-b87a-4875-8a8a-c564607937e0:SIN2/master.m3u8
+
 # --- FAVORITES ---
 
 #EXTINF:-1 tvg-logo="CNNNews18.jpg" group-title="Favorites", CNN News 18
@@ -127,6 +173,15 @@ https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141
 
 #EXTINF:-1 tvg-logo="IndiaToday.jpg" group-title="Favorites", India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8?fav=1
+
+#EXTINF:-1 tvg-logo="CNNInternational.jpg" group-title="Favorites", CNN International
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8?fav=1
+
+#EXTINF:-1 tvg-logo="BBCNews.jpg" group-title="Favorites", BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8?fav=1
+
+#EXTINF:-1 tvg-logo="NloombergTV.jpg" group-title="Favorites", Bloomberg TV
+https://dai.google.com/linear/hls/pb/event/FvrjI2MQSs6_bNTURP2CaA/stream/9f2f2fc7-b87a-4875-8a8a-c564607937e0:SIN2/master.m3u8?fav=1
 
 #EXTINF:-1 tvg-logo="Mirror Now.jpg" group-title="Favorites", Mirror Now
 https://dai.google.com/linear/hls/pb/event/ClPOullTQky5vGPf7fMZ8g/stream/3d1ab726-9ec5-4a73-a7c1-ecd80f4435a5:SIN2/master.m3u8?fav=1
