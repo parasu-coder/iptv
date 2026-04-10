@@ -128,7 +128,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 
 #EXTINF:-1 tvg-logo="CBSNews.jpg" group-title="World", CBS News
-https://dai.google.com/linear/hls/pb/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/90878570-8f23-425c-bd69-1541e1643787:TPE/master.m3u8
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 #EXTINF:-1 tvg-logo="FoxNews.jpg" group-title="World", FOX News
 https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
@@ -148,7 +148,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 tvg-logo="GlobalNewsCanada.jpg" group-title="World", Global News Canada
 https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/live-audio_1=96000-video=2499968.m3u8
 
-#EXTINF:-1 tvg-logo="DeutscheWelle.jpg" group-title="World", Deutsche Welle
+#EXTINF:-1 tvg-logo="DeutscheWelle.jpg" group-title="World", DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="France24.jpg" group-title="World", France 24
