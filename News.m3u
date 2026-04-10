@@ -100,7 +100,7 @@ https://feeds.intoday.in/hltapps/api/master.m3u8
 # https://newsxott.in/hls/newsx.m3u8
 
 #EXTINF:-1 tvg-logo="Mirror Now.jpg" group-title="English", Mirror Now
-https://dai.google.com/linear/hls/pb/event/ClPOullTQky5vGPf7fMZ8g/stream/3d1ab726-9ec5-4a73-a7c1-ecd80f4435a5:SIN2/master.m3u8
+https://d179muqh6u5263.cloudfront.net/master.m3u8
 
 #EXTINF:-1 tvg-logo="News 9.jpg" group-title="English", News 9
 https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-237347/main.m3u8
@@ -184,7 +184,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://dai.google.com/linear/hls/pb/event/FvrjI2MQSs6_bNTURP2CaA/stream/9f2f2fc7-b87a-4875-8a8a-c564607937e0:SIN2/master.m3u8?fav=1
 
 #EXTINF:-1 tvg-logo="Mirror Now.jpg" group-title="Favorites", Mirror Now
-https://dai.google.com/linear/hls/pb/event/ClPOullTQky5vGPf7fMZ8g/stream/3d1ab726-9ec5-4a73-a7c1-ecd80f4435a5:SIN2/master.m3u8?fav=1
+https://d179muqh6u5263.cloudfront.net/master.m3u8?fav=1
 
 #EXTINF:-1 tvg-logo="News 9.jpg" group-title="Favorites", News 9
 https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-237347/main.m3u8?fav=1
