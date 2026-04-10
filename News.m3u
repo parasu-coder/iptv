@@ -37,8 +37,8 @@ https://cdn-3.pishow.tv/live/1469/master.m3u8
 #EXTINF:-1 tvg-id="ZeeMalayalamNews.in@SD" group-title="Malayalam", Zee Malayalam News
 https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
 
-#EXTINF:-1 tvg-id="RajNewsMalayalam.in@SD" group-title="Malayalam", Raj News Malayalam
-https://mumt04.tangotv.in/RAJNEWSMALAYALAM/index.m3u8
+# #EXTINF:-1 tvg-id="RajNewsMalayalam.in@SD" group-title="Malayalam", Raj News Malayalam
+# https://mumt04.tangotv.in/RAJNEWSMALAYALAM/index.m3u8
 
 # --- TAMIL ---
 #EXTINF:-1 tvg-logo="PolimerNews.jpg" group-title="Tamil", Polimer News
