@@ -154,8 +154,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/strea
 #EXTINF:-1 tvg-logo="France24.jpg" group-title="World", France 24
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 tvg-logo="NloombergTV.jpg" group-title="World", Bloomberg TV
-https://dai.google.com/linear/hls/pb/event/FvrjI2MQSs6_bNTURP2CaA/stream/9f2f2fc7-b87a-4875-8a8a-c564607937e0:SIN2/master.m3u8
+#EXTINF:-1 tvg-logo="BloombergTV.jpg" group-title="World", Bloomberg TV
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 
 # --- FAVORITES ---
 
@@ -180,8 +180,8 @@ https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="BBCNews.jpg" group-title="Favorites", BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8?fav=1
 
-#EXTINF:-1 tvg-logo="NloombergTV.jpg" group-title="Favorites", Bloomberg TV
-https://dai.google.com/linear/hls/pb/event/FvrjI2MQSs6_bNTURP2CaA/stream/9f2f2fc7-b87a-4875-8a8a-c564607937e0:SIN2/master.m3u8?fav=1
+#EXTINF:-1 tvg-logo="BloombergTV.jpg" group-title="Favorites", Bloomberg TV
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8?fav=1
 
 #EXTINF:-1 tvg-logo="Mirror Now.jpg" group-title="Favorites", Mirror Now
 https://d179muqh6u5263.cloudfront.net/master.m3u8?fav=1
