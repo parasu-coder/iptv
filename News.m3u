@@ -68,8 +68,11 @@ https://cdn-3.pishow.tv/live/1279/master.m3u8
 #EXTINF:-1 tvg-logo="MNadu.jpg" group-title="Tamil", M Nadu
 https://mumt01.tangotv.in/MNADU/index.m3u8
 
-#EXTINF:-1 tvg-logo="JanamTVTamil.jpg" group-title="Tamil", Janam TV Tamil
+#EXTINF:-1 tvg-logo="JanamTVTamil.jpg" group-title="Tamil", Tamil Janam
 https://mumt01.tangotv.in/JANAMTVTAMIL/index.m3u8
+
+#EXTINF:-1 tvg-logo="ZeeTamil.jpg" group-title="Tamil", Zee Tamil News
+https://dpkvdnzbeen1l.cloudfront.net/index_2.m3u8
 
 #EXTINF:-1 tvg-logo="KalaignarSeithigal.jpg" group-title="Tamil", Kalaignar Seithigal
 https://live-cf-kalaignarnews.dailyhunt.in/master.m3u8
