@@ -127,6 +127,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 tvg-logo="NBCNews.jpg" group-title="World", NBC News
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 
+#EXTINF:-1 tvg-logo="SkyNews.jpg" group-title="World", Sky News
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+
 #EXTINF:-1 tvg-logo="CBSNews.jpg" group-title="World", CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
@@ -138,6 +141,9 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-logo="RTIndia.jpg" group-title="World", RT India
 https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="ABCAustralia.jpg" group-title="World", ABC Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
 #EXTINF:-1 tvg-logo="NHKWorld.jpg" group-title="World", NHK World
 https://nhk.lls.pbs.org/index.m3u8
@@ -154,8 +160,17 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/strea
 #EXTINF:-1 tvg-logo="France24.jpg" group-title="World", France 24
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 tvg-logo="BloombergTV.jpg" group-title="World", Bloomberg TV
+#EXTINF:-1 tvg-logo="EuroNews.jpg" group-title="World", Euronews
+https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
+
+#EXTINF:-1 tvg-logo="BloombergTVAsia.jpg" group-title="World", Bloomberg TV Asia
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+
+#EXTINF:-1 tvg-logo="BloombergTVEU.jpg" group-title="World", Bloomberg TV Europe
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+
+#EXTINF:-1 tvg-logo="BloombergTV.jpg" group-title="World", Bloomberg TV USA
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
 # --- FAVORITES ---
 
