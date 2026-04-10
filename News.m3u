@@ -80,36 +80,90 @@ https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
 #EXTINF:-1 tvg-logo="SathiyamTV.jpg" group-title="Tamil", Sathiyam TV
 https://live-cf-sathiyamtv.dailyhunt.in/master.m3u8
 
+# --- ENGLISH ---
+#EXTINF:-1 tvg-logo="CNNNews18.jpg" group-title="English", CNN News 18
+https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/CNN_News18_NW18_MOB-audio_98835_hin=98800-video=2293600.m3u8
+
+#EXTINF:-1 tvg-logo="TimesNow.jpg" group-title="English", Times Now
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8
+
+#EXTINF:-1 tvg-logo="NDTV24x7.jpg" group-title="English", NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
+
+#EXTINF:-1 tvg-logo="RepublicTV.jpg" group-title="English", Republic TV
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8
+
+#EXTINF:-1 tvg-logo="IndiaToday.jpg" group-title="English", India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+
+# #EXTINF:-1 tvg-logo="News X.jpg" group-title="English", News X
+# https://newsxott.in/hls/newsx.m3u8
+
+#EXTINF:-1 tvg-logo="Mirror Now.jpg" group-title="English", Mirror Now
+https://dai.google.com/linear/hls/pb/event/ClPOullTQky5vGPf7fMZ8g/stream/3d1ab726-9ec5-4a73-a7c1-ecd80f4435a5:SIN2/master.m3u8
+
+#EXTINF:-1 tvg-logo="News 9.jpg" group-title="English", News 9
+https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-237347/main.m3u8
+
+#EXTINF:-1 tvg-logo="Wion.jpg" group-title="English", Wion
+https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8
+
 # --- FAVORITES ---
-#EXTINF:-1 tvg-id="BigTVMalayalam.in@SD" group-title="Favorites", Big TV 24x7
-https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8?fav=1
 
-#EXTINF:-1 tvg-id="24News.in@SD" group-title="Favorites", 24 News
-https://segment.yuppcdn.net/110322/channel24/playlist.m3u8?fav=1
+#EXTINF:-1 tvg-logo="CNNNews18.jpg" group-title="Favorites", CNN News 18
+https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/CNN_News18_NW18_MOB-audio_98835_hin=98800-video=2293600.m3u8?fav=1
 
-#EXTINF:-1 tvg-id="AsianetNews.in@SD" group-title="Favorites", Asianet News
-https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8?fav=1
+#EXTINF:-1 tvg-logo="TimesNow.jpg" group-title="Favorites", Times Now
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8?fav=1
 
-#EXTINF:-1 tvg-id="News18Kerala.in@SD" group-title="Favorites", News 18 Kerala
-https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8?fav=1
+#EXTINF:-1 tvg-logo="NDTV24x7.jpg" group-title="Favorites", NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8?fav=1
 
-#EXTINF:-1 tvg-id="MathrubhumiNews.in@SD" group-title="Favorites", Mathrubhumi News
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8?fav=1
+#EXTINF:-1 tvg-logo="RepublicTV.jpg" group-title="Favorites", Republic TV
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?fav=1
 
-#EXTINF:-1 tvg-logo="MalaiMurasu.jpg" group-title="Favorites", Malai Murasu
-https://cdn-3.pishow.tv/live/1606/master.m3u8?fav=1
+#EXTINF:-1 tvg-logo="IndiaToday.jpg" group-title="Favorites", India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8?fav=1
 
-#EXTINF:-1 tvg-logo="News18TamilNadu.jpg" group-title="Favorites", News 18 TamilNadu
-https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8?fav=1
+#EXTINF:-1 tvg-logo="Mirror Now.jpg" group-title="Favorites", Mirror Now
+https://dai.google.com/linear/hls/pb/event/ClPOullTQky5vGPf7fMZ8g/stream/3d1ab726-9ec5-4a73-a7c1-ecd80f4435a5:SIN2/master.m3u8?fav=1
 
-#EXTINF:-1 tvg-logo="News7Tamil.jpg" group-title="Favorites", News 7 Tamil
-https://segment.yuppcdn.net/240122/news7/playlist.m3u8?fav=1
+#EXTINF:-1 tvg-logo="News 9.jpg" group-title="Favorites", News 9
+https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-237347/main.m3u8?fav=1
 
-#EXTINF:-1 tvg-logo="ThanthiNews.jpg" group-title="Favorites", Thanthi News
-https://cdn-3.pishow.tv/live/1612/master.m3u8?fav=1
+#EXTINF:-1 tvg-logo="Wion.jpg" group-title="Favorites", Wion
+https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8?fav=1
+
+#EXTINF:-1 tvg-logo="PolimerNews.jpg" group-title="Favorites", Polimer News
+https://live-cf-polimernews.dailyhunt.in/master.m3u8?fav=1
 
 #EXTINF:-1 tvg-logo="PuthiyaTalaimurai.jpg" group-title="Favorites", Puthiya Talaimurai
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8?fav=1
 
-#EXTINF:-1 tvg-logo="PolimerNews.jpg" group-title="Favorites", Polimer News
-https://live-cf-polimernews.dailyhunt.in/master.m3u8?fav=1
+#EXTINF:-1 tvg-logo="ThanthiNews.jpg" group-title="Favorites", Thanthi News
+https://cdn-3.pishow.tv/live/1612/master.m3u8?fav=1
+
+#EXTINF:-1 tvg-logo="News7Tamil.jpg" group-title="Favorites", News 7 Tamil
+https://segment.yuppcdn.net/240122/news7/playlist.m3u8?fav=1
+
+#EXTINF:-1 tvg-logo="News18TamilNadu.jpg" group-title="Favorites", News 18 TamilNadu
+https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8?fav=1
+
+#EXTINF:-1 tvg-logo="MalaiMurasu.jpg" group-title="Favorites", Malai Murasu
+https://cdn-3.pishow.tv/live/1606/master.m3u8?fav=1
+
+#EXTINF:-1 tvg-id="MathrubhumiNews.in@SD" group-title="Favorites", Mathrubhumi News
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8?fav=1
+
+#EXTINF:-1 tvg-id="News18Kerala.in@SD" group-title="Favorites", News 18 Kerala
+https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8?fav=1
+
+#EXTINF:-1 tvg-id="AsianetNews.in@SD" group-title="Favorites", Asianet News
+https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8?fav=1
+
+#EXTINF:-1 tvg-id="24News.in@SD" group-title="Favorites", 24 News
+https://segment.yuppcdn.net/110322/channel24/playlist.m3u8?fav=1
+
+#EXTINF:-1 tvg-id="BigTVMalayalam.in@SD" group-title="Favorites", Big TV 24x7
+https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8?fav=1
+
