@@ -1,25 +1,181 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="FIFA+", FIFA+
+#EXTINF:-1 tvg-id="FIFA+" group-title="Football", FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tennis Channel", Tennis Channel
+#EXTINF:-1 tvg-id="FIFA+Women" group-title="Football", FIFA+ Women
+https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tennis Channel" group-title="Tennis", Tennis Channel
 https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Formula1", F1 Channel
+#EXTINF:-1 tvg-id="Formula1" group-title="Racing", F1 Channel
 https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RealMadridTV", Real Madrid TV
+#EXTINF:-1 tvg-id="FuelTV" group-title="Racing", Fuel TV Europe
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="NHRA" group-title="Racing", NHRA USA
+https://aegis-cloudfront-1.tubi.video/b8c5eb48-349b-454f-9625-63911ee923f5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Racer" group-title="Racing", Racer Network USA
+https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHRA" group-title="Outdoor", Outdoor Channel USA
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHRA" group-title="Golf", PGA Tour USA
+https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHRA" group-title="Poker", Poker Go USA
+https://aegis-cloudfront-1.tubi.video/b474c2bb-b34d-4c53-a94b-c4ffe884563c/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WPT" group-title="Poker", World Poker Tour USA
+https://amg00218-wptenterprisesi-worldpokertour-xumo-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RacerInt" group-title="Racing", Racer International
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cricket" group-title="Cricket", Cricket Gold
+https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
+
+#EXTINF:-1 tvg-id="RealMadridTV" group-title="Football", Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
-#EXTINF:-1 tvg-id="NBATV", NBA TV
+#EXTINF:-1 tvg-id="NBATV" group-title="Basketball", NBA TV
 https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-id="NHLTV", NHL TV
+#EXTINF:-1 tvg-id="NHLTV" group-title="Ice Hockey", NHL TV
 https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MLBTV", MLB TV
+#EXTINF:-1 tvg-id="MLBTV" group-title="Baseball", MLB TV
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DFBPlayTV", DFB Play TV
+#EXTINF:-1 tvg-id="DFBPlayTV" group-title="Football", DFB Play TV
 https://api-ott.dfbplay.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=106&partner=any
+
+#EXTINF:-1 tvg-id="Talksport" group-title="Football", Talksport
+https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SportsGrid" group-title="Sports", Sports Grid USA
+https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DDSports" group-title="Sports", DD Sports India
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+#EXTINF:-1 tvg-id="TVRISport" group-title="Sports", TVRI Sport Indonesia
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-id="SportItalia" group-title="Sports", Sport Italia
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="QAZSports" group-title="Sports", AQZ Sports Kazhakstan
+https://livepush.io/hlsplayer/index.html
+
+#EXTINF:-1 tvg-id="Unbeaten" group-title="Sports", Unbeaten USA
+https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
+
+#EXTINF:-1 tvg-id="WSN" group-title="Sports", Women's Sports Network USA
+https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
+
+#EXTINF:-1 tvg-id="ProSportsInt" group-title="Sports", Pro Sports International Malaysia
+https://proshls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ACCDigital" group-title="Sports", ACC Digital Network USA
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BEKSportsW" group-title="Sports", BEK Sports West USA
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DraftKings" group-title="Sports", Draft Kings Network USA
+https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
+
+#EXTINF:-1 tvg-id="SwerveSports" group-title="Sports", Swerve SPorts USA
+https://linear-253.frequency.stream/dist/stirr/253/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ITVDeportes" group-title="Sports", ITV Deportes Mexico
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+
+#EXTINF:-1 tvg-id="MNBSports" group-title="Sports", MNB Sports Mongolia
+https://cdn4.skygo.mn/live/disk1/MNBSport/HLSv3-FTA/MNBSport.m3u8
+
+#EXTINF:-1 tvg-id="KTVSports" group-title="Sports", KTV Sports Kuwait
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="KTVSportsPlus" group-title="Sports", KTV Sports+ Kuwait
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="NudgeSports" group-title="Sports", Nudge Sports
+https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GamePlus" group-title="Sports", Nudge Sports Philipines
+https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kozoom" group-title="Sports", Kozoom TV France
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
+
+#EXTINF:-1 tvg-id="ACISport" group-title="Sports", ACI Sport Italy
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+
+#EXTINF:-1 tvg-id="SinPoTV" group-title="Sports", SinPo TV Indonesia
+https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
+
+#EXTINF:-1 tvg-id="TRSport" group-title="Sports", TR Sport Italy
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OmanSports" group-title="Sports", Oman Sports TV
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TVRSport" group-title="Sports", TVR Sport Romania
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
+
+#EXTINF:-1 tvg-id="TraceSportsStars" group-title="Sports", Trace Sports Stars France
+https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MoreThanSportsTV" group-title="Sports", More Than Sports TV Germany
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SportsConnect" group-title="Sports", Sports Connect South Africa
+https://streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsConnect/index.m3u8
+
+#EXTINF:-1 tvg-id="TJKTV" group-title="Sports", TJK TV Turkey
+https://tjktv-live.tjk.org/tjktv.m3u8
+
+#EXTINF:-1 tvg-id="HardKnocks" group-title="Wrestling", Hard Knocks Canada
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418
+
+#EXTINF:-1 tvg-id="Strongman" group-title="Wrestling", STrongman USA
+https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PersianFight" group-title="Wrestling", Persian Fight France
+https://fighthls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="MMATV" group-title="Wrestling", MMA TV Russia
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StadiumTV" group-title="Wrestling", Stadium TV USA
+https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Teletrack" group-title="Wrestling", Teletrack Chile
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Turfmovil" group-title="Wrestling", Turf Movil Chile
+https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
+
+#EXTINF:-1 tvg-id="Turfmovil" group-title="Horse Riding", Horse TV Italy
+https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NauticalTV" group-title="Surfing", Nautical TV Italy
+https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WOF" group-title="Sports", World of Free Sports Germany
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleRebelde" group-title="Sports", Tele Rebelde Cuba
+https://tv.picta.cu/telerebelde/telerebelde_1.m3u8
+
+#EXTINF:-1 tvg-id="InTrouble" group-title="Sports", InTrouble Netherlands
+https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedBull" group-title="Adventure", Red Bull TV
+https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8
