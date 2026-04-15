@@ -218,17 +218,17 @@ https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-logo="CNBCAsia.jpg" group-title="Business", CNBC Asia
 https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
 
-#EXTINF:-1 tvg-logo="BloombergTVEU.jpg" group-title="Business", Bloomberg TV Europe
-https://www.bloomberg.com/media-manifest/streams/eu.m3u8
-
-#EXTINF:-1 tvg-logo="CNBCUK.jpg" group-title="Business", CNBC UK
-https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="BloombergTV.jpg" group-title="Business", Bloomberg TV USA
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
 #EXTINF:-1 tvg-logo="YahooFinance.jpg" group-title="Business", Yahoo Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="BloombergTVEU.jpg" group-title="Business", Bloomberg TV Europe
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+
+#EXTINF:-1 tvg-logo="CNBCUK.jpg" group-title="Business", CNBC UK
+https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8
 
 # --- FAVORITES ---
 
