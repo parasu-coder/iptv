@@ -172,9 +172,6 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 #EXTINF:-1 tvg-logo="CBSNews.jpg" group-title="World", CBS News US
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 tvg-logo="MSNow.jpg" group-title="World", MS Now US
-http://41.205.93.154/MSNBC/index.m3u8
-
 #EXTINF:-1 tvg-logo="FoxNews.jpg" group-title="World", FOX News US
 https://stream.livenewsplay.com:9555/hls/foxnewssd/index.m3u8
 
@@ -199,7 +196,7 @@ https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="EuroNews.jpg" group-title="World", Euronews
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="Telesur.jpg" group-title="World", Telesur
+#EXTINF:-1 tvg-logo="Telesur.jpg" group-title="World", Telesur Venezuela
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 
 # --- BUSINESS ---
