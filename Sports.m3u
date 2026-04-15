@@ -25,35 +25,6 @@ https://amg00585-sportstribal-amg00585c1-sportstribal-emea-2175.playouts.now.ama
 #EXTINF:-1 tvg-id="GFNFootball" group-title="Football", GFN Football
 https://887c98e7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0dGTlNvY2Nlcl9ITFM/manifest.m3u8?ads.wurl_channel=2093&ads.wurl_name=GFNSoccer&ads.channel_name=GFN%20Soccer%20TV&ads.content_genre=Football%2CSport&ads.ic=IAB17%2CIAB17-12&ads.rating=G&ads.language=US&provider=FreeLiveSports&ads.us_privacy=1---&ads.gdpr=0&ads.consent=&ads.coppa=0&ads.content_livestream=1&ads.content_url=https%3A%2F%2Fwww.freelivesports.tv%2F&ads.dnt=0&ads.device_id=DQZ3BW
 
-# --- TENNIS ---
-#EXTINF:-1 tvg-id="Tennis Channel" group-title="Tennis", Tennis Channel
-https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tennis Classics" group-title="Tennis", Tennis TV Classics
-https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-freelivesportsemea/playlist.m3u8?channel_name=Tennis%20TV&content_genre=Sport%2CTennis&ic=IAB17%2CIAB17-40&provider=FreeLiveSports&us_privacy=1---&gdpr=0&gdpr_consent=&coppa=0&content_livestream=1&p=sportstribal&language=en&url=https%3A%2F%2Fwww.freelivesports.tv%2F&lmt=0&did=DQZ3BW
-
-# --- RACING ---
-#EXTINF:-1 tvg-id="Formula1" group-title="Racing", F1 Channel
-https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Formula1" group-title="Racing", NASCAR
-https://amg00115-amg00115c1-freelivesports-emea-11215.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00115-nascar-nascar-freelivesportsemea/playlist.m3u8?channel_name=NASCAR&content_genre=Drag%20Racing%2CMotor%20Racing%2CMotorsport%2CRacing%2CSport&ic=IAB17%2CIAB17-1&rating=PG&language=US&provider=FreeLiveSports&us_privacy=1---&gdpr=0&gdpr_consent=&coppa=0&content_livestream=1&p=sportstribal&url=https%3A%2F%2Fwww.freelivesports.tv%2F&lmt=0&did=DQZ3BW
-
-#EXTINF:-1 tvg-id="FuelTV" group-title="Racing", Fuel TV Europe
-https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
-
-#EXTINF:-1 tvg-id="NHRA" group-title="Racing", NHRA USA
-https://aegis-cloudfront-1.tubi.video/b8c5eb48-349b-454f-9625-63911ee923f5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Racer" group-title="Racing", Racer Network Australia
-https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FloRacing" group-title="Racing", Flo Racing
-https://amg02278-amg02278c1-freelivesports-emea-7535.playouts.now.amagi.tv/playlist/amg02278-flosports-floracing24x7-freelivesportsemea/playlist.m3u8?channel_name=FloRacing&content_genre=Motor%20Racing%2CMotorsport%2CRacing%2CSport&ic=IAB17%2CIAB17-1&provider=FreeLiveSports&us_privacy=1---&gdpr=0&gdpr_consent=&coppa=0&content_livestream=1&p=sportstribal&url=https%3A%2F%2Fwww.freelivesports.tv%2F&lmt=0&did=DQZ3BW
-
-#EXTINF:-1 tvg-id="RacerInt" group-title="Racing", Racer International US
-https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
-
 # --- SPORTS ---
 #EXTINF:-1 tvg-id="GamePlus" group-title="Sports", Game+ Canada
 https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
@@ -64,8 +35,17 @@ https://60c273eb866445249cc34a0c01556572.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="SportsGrid" group-title="Sports", Sports Grid USA
 https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NBCSportsNow" group-title="Sports", NBC Sports Now USA
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
+
 #EXTINF:-1 tvg-id="DDSports" group-title="Sports", DD Sports India
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+#EXTINF:-1 tvg-id="PremierSports" group-title="Sports", Premier Sports
+https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PremierSports2" group-title="Sports", Premier Sports 2
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KTVSports" group-title="Sports", KTV Sports Kuwait
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
@@ -76,8 +56,35 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="OmanSports" group-title="Sports", Oman Sports TV
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="JSports1" group-title="Sports", JSports 1 Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+
+#EXTINF:-1 tvg-id="JSports2" group-title="Sports", JSports 2 Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+
+#EXTINF:-1 tvg-id="JSports3" group-title="Sports", JSports 3 Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+
+#EXTINF:-1 tvg-id="JSports4" group-title="Sports", JSports 4 Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+
 #EXTINF:-1 tvg-id="TVRSport" group-title="Sports", TVR Sport Romania
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
+
+#EXTINF:-1 tvg-id="TVRISport" group-title="Sports", TVRI Sport Indonesia
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_250000=10000-mp4a_64000=20001.m3u8
+
+#EXTINF:-1 tvg-id="QazSport" group-title="Sports", QezSport Kazhakstan
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BahrainSportsOne" group-title="Sports", Bahrain Sports One
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BahrainSportsTwo" group-title="Sports", Bahrain Sports Two
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATG Live" group-title="Sports", ATG Live
+https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
 
 #EXTINF:-1 tvg-id="ProSportsInt" group-title="Sports", Pro Sports International Malaysia
 https://proshls.wns.live/hls/stream.m3u8
@@ -87,9 +94,6 @@ https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
 
 #EXTINF:-1 tvg-id="WSN" group-title="Sports", Women's Sports Network USA
 https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
-
-#EXTINF:-1 tvg-id="TVRISport" group-title="Sports", TVRI Sport Indonesia
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 tvg-id="NudgeSports" group-title="Sports", Nudge Sports Philippines
 https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8
@@ -145,6 +149,82 @@ https://cdn4.skygo.mn/live/disk1/MNBSport/HLSv3-FTA/MNBSport.m3u8
 #EXTINF:-1 tvg-id="TeleRebelde" group-title="Sports", Tele Rebelde Cuba
 https://tv.picta.cu/telerebelde/telerebelde_1.m3u8
 
+# --- TENNIS ---
+#EXTINF:-1 tvg-id="Tennis Channel" group-title="Tennis", Tennis Channel
+https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tennis Classics" group-title="Tennis", Tennis TV Classics
+https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-freelivesportsemea/playlist.m3u8?channel_name=Tennis%20TV&content_genre=Sport%2CTennis&ic=IAB17%2CIAB17-40&provider=FreeLiveSports&us_privacy=1---&gdpr=0&gdpr_consent=&coppa=0&content_livestream=1&p=sportstribal&language=en&url=https%3A%2F%2Fwww.freelivesports.tv%2F&lmt=0&did=DQZ3BW
+
+# --- CRICKET ---
+#EXTINF:-1 tvg-id="Cricket" group-title="Cricket", Cricket Gold
+https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
+
+# --- BASKETBALL ---
+#EXTINF:-1 tvg-id="NBATV" group-title="Basketball", NBA TV
+https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="HoopTV" group-title="Basketball", Hoop TV
+https://amg00585-amg00585c9-sportstribal-emea-5518.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-hooptv-sportstribalemea/playlist.m3u8?channel_name=HOOP%20TV&content_genre=Sport&ic=IAB17&provider=FreeLiveSports&us_privacy=1---&gdpr=0&gdpr_consent=&coppa=0&content_livestream=1&p=sportstribal&url=https%3A%2F%2Fwww.freelivesports.tv%2F&lmt=0&did=DQZ3BW
+
+# --- RACING ---
+#EXTINF:-1 tvg-id="Formula1" group-title="Racing", F1 Channel
+https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Formula1" group-title="Racing", NASCAR
+https://amg00115-amg00115c1-freelivesports-emea-11215.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00115-nascar-nascar-freelivesportsemea/playlist.m3u8?channel_name=NASCAR&content_genre=Drag%20Racing%2CMotor%20Racing%2CMotorsport%2CRacing%2CSport&ic=IAB17%2CIAB17-1&rating=PG&language=US&provider=FreeLiveSports&us_privacy=1---&gdpr=0&gdpr_consent=&coppa=0&content_livestream=1&p=sportstribal&url=https%3A%2F%2Fwww.freelivesports.tv%2F&lmt=0&did=DQZ3BW
+
+#EXTINF:-1 tvg-id="FuelTV" group-title="Racing", Fuel TV Europe
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="NHRA" group-title="Racing", NHRA USA
+https://aegis-cloudfront-1.tubi.video/b8c5eb48-349b-454f-9625-63911ee923f5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Racer" group-title="Racing", Racer Network Australia
+https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FloRacing" group-title="Racing", Flo Racing
+https://amg02278-amg02278c1-freelivesports-emea-7535.playouts.now.amagi.tv/playlist/amg02278-flosports-floracing24x7-freelivesportsemea/playlist.m3u8?channel_name=FloRacing&content_genre=Motor%20Racing%2CMotorsport%2CRacing%2CSport&ic=IAB17%2CIAB17-1&provider=FreeLiveSports&us_privacy=1---&gdpr=0&gdpr_consent=&coppa=0&content_livestream=1&p=sportstribal&url=https%3A%2F%2Fwww.freelivesports.tv%2F&lmt=0&did=DQZ3BW
+
+#EXTINF:-1 tvg-id="RacerInt" group-title="Racing", Racer International US
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+
+# --- GOLF ---
+#EXTINF:-1 tvg-id="PGATour" group-title="Golf", PGA Tour USA
+https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GolfNetwork" group-title="Golf", Golf Network Japan
+https://amg26268-amg26268c12-freelivesports-emea-9477.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg26268-sportsstudio-golfnetworkchannel-freelivesportsemea/playlist.m3u8?channel_name=Golf%20Network&content_genre=Golf%2CSport&ic=IAB17%2CIAB17-15&rating=PG&language=US&provider=FreeLiveSports&us_privacy=1---&gdpr=0&gdpr_consent=&coppa=0&content_livestream=1&p=sportstribal&url=https%3A%2F%2Fwww.freelivesports.tv%2F&lmt=0&did=DQZ3BW
+
+# --- BASEBALL ---
+#EXTINF:-1 tvg-id="MLBTV" group-title="Baseball", MLB TV
+https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
+
+# --- OUTDOOR ---
+#EXTINF:-1 tvg-id="NHRA" group-title="Outdoor", Outdoor Channel USA
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedBull" group-title="Outdoor", Red Bull TV
+https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Turfmovil" group-title="Outdoor", Horse TV Italy
+https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NauticalTV" group-title="Outdoor", Nautical TV Italy
+https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SkyRacing1" group-title="Outdoor", Sky Racing 1
+https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SkyRacing2" group-title="Outdoor", Sky Racing 2
+https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Teletrack" group-title="Outdoor", Teletrack Chile
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Turfmovil" group-title="Outdoor", Turf Movil Chile
+https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
+
 # --- WRESTLING ---
 #EXTINF:-1 tvg-id="HardKnocks" group-title="Wrestling", Hard Knocks Canada
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418
@@ -160,32 +240,6 @@ https://fighthls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="MMATV" group-title="Wrestling", MMA TV Russia
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
-
-# --- OUTDOOR ---
-#EXTINF:-1 tvg-id="NHRA" group-title="Outdoor", Outdoor Channel USA
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RedBull" group-title="Outdoor", Red Bull TV
-https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Turfmovil" group-title="Outdoor", Horse TV Italy
-https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NauticalTV" group-title="Outdoor", Nautical TV Italy
-https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Teletrack" group-title="Outdoor", Teletrack Chile
-https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Turfmovil" group-title="Outdoor", Turf Movil Chile
-https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
-
-# --- GOLF ---
-#EXTINF:-1 tvg-id="PGATour" group-title="Golf", PGA Tour USA
-https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GolfNetwork" group-title="Golf", Golf Network Japan
-https://amg26268-amg26268c12-freelivesports-emea-9477.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg26268-sportsstudio-golfnetworkchannel-freelivesportsemea/playlist.m3u8?channel_name=Golf%20Network&content_genre=Golf%2CSport&ic=IAB17%2CIAB17-15&rating=PG&language=US&provider=FreeLiveSports&us_privacy=1---&gdpr=0&gdpr_consent=&coppa=0&content_livestream=1&p=sportstribal&url=https%3A%2F%2Fwww.freelivesports.tv%2F&lmt=0&did=DQZ3BW
 
 # --- BILLIARDS ---
 #EXTINF:-1 tvg-id="BilliardsTV" group-title="Billiards", Billiards TV USA
@@ -204,28 +258,13 @@ https://amg00218-wptenterprisesi-worldpokertour-xumo-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PokerNight" group-title="Poker", Poker Night USA
 https://linear-1068.frequency.stream/dist/freelivesports/1068/hls/master/playlist.m3u8?ads.channel_name=Pokernight%20In%20America&ads.content_genre=Poker%2CSport&ads.iab_category=IAB17&provider=FreeLiveSports&ads.us_privacy=1---&ads.gdpr=0&ads.gdpr_consent=&ads.coppa=0&ads.content_livestream=1&ads.content_url=https%3A%2F%2Fwww.freelivesports.tv%2F&ads.lmt=0&ads.device_id=DQZ3BW
 
-# --- CRICKET ---
-#EXTINF:-1 tvg-id="Cricket" group-title="Cricket", Cricket Gold
-https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
-
-# --- BASKETBALL ---
-#EXTINF:-1 tvg-id="NBATV" group-title="Basketball", NBA TV
-https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="HoopTV" group-title="Basketball", Hoop TV
-https://amg00585-amg00585c9-sportstribal-emea-5518.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-hooptv-sportstribalemea/playlist.m3u8?channel_name=HOOP%20TV&content_genre=Sport&ic=IAB17&provider=FreeLiveSports&us_privacy=1---&gdpr=0&gdpr_consent=&coppa=0&content_livestream=1&p=sportstribal&url=https%3A%2F%2Fwww.freelivesports.tv%2F&lmt=0&did=DQZ3BW
+# --- BOWLING ---
+#EXTINF:-1 tvg-id="BowlingTV" group-title="Bowling", BOWLING TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16436&avod=1&content_dist_name=freelivesports&content_channel=Bowling%20TV&delivery_type=fast&channel_name=Bowling%20TV&content_genre=Sport&ic=IAB17&rating=PG&preferred_language=US&provider=FreeLiveSports&us_privacy=1---&gdpr=0&consent=&coppa=0&livestream=1&content_url=https%3A%2F%2Fwww.freelivesports.tv%2F&lmt=0&did=DQZ3BW
 
 # --- ICE HOCKEY ---
 #EXTINF:-1 tvg-id="NHLTV" group-title="Ice Hockey", NHL TV
 https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playlist.m3u8
-
-# --- BASEBALL ---
-#EXTINF:-1 tvg-id="MLBTV" group-title="Baseball", MLB TV
-https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
-
-# --- BOWLING ---
-#EXTINF:-1 tvg-id="BowlingTV" group-title="Bowling", BOWLING TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16436&avod=1&content_dist_name=freelivesports&content_channel=Bowling%20TV&delivery_type=fast&channel_name=Bowling%20TV&content_genre=Sport&ic=IAB17&rating=PG&preferred_language=US&provider=FreeLiveSports&us_privacy=1---&gdpr=0&consent=&coppa=0&livestream=1&content_url=https%3A%2F%2Fwww.freelivesports.tv%2F&lmt=0&did=DQZ3BW
 
 # --- FOOSBALL ---
 #EXTINF:-1 tvg-id="MLBTV" group-title="Foosball", Foosball TV
