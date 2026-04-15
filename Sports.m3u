@@ -25,6 +25,9 @@ https://amg00585-sportstribal-amg00585c1-sportstribal-emea-2175.playouts.now.ama
 #EXTINF:-1 tvg-id="GFNFootball" group-title="Football", GFN Football
 https://887c98e7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0dGTlNvY2Nlcl9ITFM/manifest.m3u8?ads.wurl_channel=2093&ads.wurl_name=GFNSoccer&ads.channel_name=GFN%20Soccer%20TV&ads.content_genre=Football%2CSport&ads.ic=IAB17%2CIAB17-12&ads.rating=G&ads.language=US&provider=FreeLiveSports&ads.us_privacy=1---&ads.gdpr=0&ads.consent=&ads.coppa=0&ads.content_livestream=1&ads.content_url=https%3A%2F%2Fwww.freelivesports.tv%2F&ads.dnt=0&ads.device_id=DQZ3BW
 
+#EXTINF:-1 tvg-id="LaLigaHyper" group-title="Football", La Liga Hypermotion TV
+http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8
+
 # --- SPORTS ---
 #EXTINF:-1 tvg-id="GamePlus" group-title="Sports", Game+ Canada
 https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
@@ -38,14 +41,14 @@ https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCSportsNow" group-title="Sports", NBC Sports Now USA
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
 
-#EXTINF:-1 tvg-id="DDSports" group-title="Sports", DD Sports India
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-
 #EXTINF:-1 tvg-id="PremierSports" group-title="Sports", Premier Sports
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PremierSports2" group-title="Sports", Premier Sports 2
 https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DDSports" group-title="Sports", DD Sports India
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
 #EXTINF:-1 tvg-id="KTVSports" group-title="Sports", KTV Sports Kuwait
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
@@ -55,6 +58,15 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="OmanSports" group-title="Sports", Oman Sports TV
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TVRSport" group-title="Sports", TVR Sport Romania
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
+
+#EXTINF:-1 tvg-id="TVRISport" group-title="Sports", TVRI Sport Indonesia
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-id="QazSport" group-title="Sports", QazSport Kazhakstan
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JSports1" group-title="Sports", JSports 1 Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
@@ -68,23 +80,11 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 #EXTINF:-1 tvg-id="JSports4" group-title="Sports", JSports 4 Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 
-#EXTINF:-1 tvg-id="TVRSport" group-title="Sports", TVR Sport Romania
-https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
-
-#EXTINF:-1 tvg-id="TVRISport" group-title="Sports", TVRI Sport Indonesia
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_250000=10000-mp4a_64000=20001.m3u8
-
-#EXTINF:-1 tvg-id="QazSport" group-title="Sports", QezSport Kazhakstan
-https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="BahrainSportsOne" group-title="Sports", Bahrain Sports One
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BahrainSportsTwo" group-title="Sports", Bahrain Sports Two
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ATG Live" group-title="Sports", ATG Live
-https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
 
 #EXTINF:-1 tvg-id="ProSportsInt" group-title="Sports", Pro Sports International Malaysia
 https://proshls.wns.live/hls/stream.m3u8
@@ -98,6 +98,9 @@ https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
 #EXTINF:-1 tvg-id="NudgeSports" group-title="Sports", Nudge Sports Philippines
 https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SportItalia" group-title="Sports", Sport Italia
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+
 #EXTINF:-1 tvg-id="ACCDigital" group-title="Sports", ACC Digital Network USA
 https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 
@@ -106,15 +109,6 @@ https://linear-253.frequency.stream/dist/stirr/253/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="StadiumTV" group-title="Sports", Stadium TV USA
 https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SportItalia" group-title="Sports", Sport Italia
-https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
-
-#EXTINF:-1 tvg-id="DraftKings" group-title="Sports", Draft Kings Network USA
-https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
-
-#EXTINF:-1 tvg-id="BEKSportsW" group-title="Sports", BEK Sports West USA
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ACISport" group-title="Sports", ACI Sport Italy
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
@@ -125,23 +119,35 @@ https://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TJKTV" group-title="Sports", TJK TV Turkey
 https://tjktv-live.tjk.org/tjktv.m3u8
 
-#EXTINF:-1 tvg-id="ITVDeportes" group-title="Sports", ITV Deportes Mexico
-https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-
 #EXTINF:-1 tvg-id="MoreThanSportsTV" group-title="Sports", More Than Sports TV Germany
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WOF" group-title="Sports", World of Free Sports Germany
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SportsConnect" group-title="Sports", Sports Connect South Africa
+https://streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsConnect/index.m3u8
+
+#EXTINF:-1 tvg-id="ITVDeportes" group-title="Sports", ITV Deportes Mexico
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+
+#EXTINF:-1 tvg-id="GaoraSports" group-title="Sports", Gaora Sports Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+
+#EXTINF:-1 tvg-id="BEKSportsW" group-title="Sports", BEK Sports West USA
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="InTrouble" group-title="Sports", InTrouble Netherlands
 https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DraftKings" group-title="Sports", Draft Kings Network USA
+https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
+
+#EXTINF:-1 tvg-id="ATG Live" group-title="Sports", ATG Live
+https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
+
 #EXTINF:-1 tvg-id="TraceSportsStars" group-title="Sports", Trace Sports Stars France
 https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SportsConnect" group-title="Sports", Sports Connect South Africa
-https://streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsConnect/index.m3u8
 
 #EXTINF:-1 tvg-id="MNBSports" group-title="Sports", MNB Sports Mongolia
 https://cdn4.skygo.mn/live/disk1/MNBSport/HLSv3-FTA/MNBSport.m3u8
