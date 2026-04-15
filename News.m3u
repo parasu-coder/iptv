@@ -130,7 +130,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 tvg-logo="RTIndia.jpg" group-title="World", RT India
 https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="AlJazeera.jpg" group-title="World", Al Jazeera
+#EXTINF:-1 tvg-logo="AlJazeera.jpg" group-title="World", Al Jazeera Qatar
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-logo="TRTWorld.jpg" group-title="World", TRT World Turkey
@@ -172,11 +172,20 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 #EXTINF:-1 tvg-logo="CBSNews.jpg" group-title="World", CBS News US
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
+#EXTINF:-1 tvg-logo="MSNow.jpg" group-title="World", MS Now US
+http://41.205.93.154/MSNBC/index.m3u8
+
 #EXTINF:-1 tvg-logo="FoxNews.jpg" group-title="World", FOX News US
 https://stream.livenewsplay.com:9555/hls/foxnewssd/index.m3u8
 
 #EXTINF:-1 tvg-logo="USAToday.jpg" group-title="World", USA Today US
 https://usatodaynews-samsungus-tsv2-ghkcu.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="FirstTV.jpg" group-title="World", The First TV US
+https://thefirst-oando.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="ScrippsNews.jpg" group-title="World", Scripps News US
+https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="SkyNews.jpg" group-title="World", Sky News UK
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
@@ -189,6 +198,9 @@ https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1 tvg-logo="EuroNews.jpg" group-title="World", Euronews
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Telesur.jpg" group-title="World", Telesur
+https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 
 # --- BUSINESS ---
 #EXTINF:-1 tvg-logo="CNBCTV18.jpg" group-title="Business", CNBC TV18
