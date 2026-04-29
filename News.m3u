@@ -126,6 +126,50 @@ https://live.sli.ke/live/npnhm84gz9/master.m3u8
 #EXTINF:-1 tvg-logo="CVRNewsEnglish.jpg" group-title="English", CVR News English
 https://cdn-2.pishow.tv/live/425/master.m3u8
 
+# --- HINDI ---
+#EXTINF:-1 tvg-logo="IndiaTV.jpg" group-title="Hindi", India TV
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
+
+#EXTINF:-1 tvg-logo="ABPNews.jpg" group-title="Hindi", ABP News
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
+
+#EXTINF:-1 tvg-logo="News18India.jpg" group-title="Hindi", News 18 India
+https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-logo="NDTVIndia.jpg" group-title="Hindi", NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+
+#EXTINF:-1 tvg-logo="AajTak.jpg" group-title="Hindi", Aaj Tak
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+
+#EXTINF:-1 tvg-logo="TimesNowNavbharat.jpg" group-title="Hindi", Times Now Navbharat
+https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="RepublicBharat.jpg" group-title="Hindi", Republic Bharat
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
+
+#EXTINF:-1 tvg-logo="News24.jpg" group-title="Hindi", News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="TV9Bharatvarsh.jpg" group-title="Hindi", TV9 Bharatvarsh
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="DDNews.jpg" group-title="Hindi", DD News
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+
+#EXTINF:-1 tvg-logo="ZeeNews.jpg" group-title="Hindi", Zee News
+https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
+
+#EXTINF:-1 tvg-logo="NewsNation.jpg" group-title="Hindi", News Nation
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
+
+#EXTINF:-1 tvg-logo="GNT.jpg" group-title="Hindi", Good News Today
+https://cc-89m9zu7a2upfe.akamaized.net/hls/live/2016145/gnt/gntlive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="SadhnaPlusNews.jpg" group-title="Hindi", Sadhna Plus News
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
+
+
 # --- WORLD ---
 #EXTINF:-1 tvg-logo="CNNInternational.jpg" group-title="World", CNN International
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
