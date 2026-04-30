@@ -256,6 +256,9 @@ https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3
 #EXTINF:-1 tvg-logo="ETNow.jpg" group-title="Business", ET Now
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
 
+#EXTINF:-1 tvg-logo="BTTv.jpg" group-title="Business", Business Today
+https://feeds.intoday.in/bttv/itgd.m3u8
+
 #EXTINF:-1 tvg-logo="NDTVProfit.jpg" group-title="Business", NDTV Profit
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8
 
