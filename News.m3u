@@ -31,14 +31,14 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #EXTINF:-1 tvg-id="MediaOneTV.in@SD" group-title="Malayalam", Media One
 https://cdn-3.pishow.tv/live/1481/master.m3u8
 
-#EXTINF:-1 tvg-id="ZeeMalayalamNews.in@SD" group-title="Malayalam", Zee Malayalam News
-https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
+#EXTINF:-1 tvg-id="JaiHindTV.in@SD" group-title="Malayalam", Jaihind TV
+https://mumt03.tangotv.in/JAIHIND/index.m3u8
 
 #EXTINF:-1 tvg-id="KairaliNews.in@SD" group-title="Malayalam", Kairali News
 https://cdn-3.pishow.tv/live/1469/master.m3u8
 
-#EXTINF:-1 tvg-id="JaiHindTV.in@SD" group-title="Malayalam", Jaihind TV
-https://mumt03.tangotv.in/JAIHIND/index.m3u8
+#EXTINF:-1 tvg-id="ZeeMalayalamNews.in@SD" group-title="Malayalam", Zee Malayalam News
+https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
 
 # #EXTINF:-1 tvg-id="RajNewsMalayalam.in@SD" group-title="Malayalam", Raj News Malayalam
 # https://mumt04.tangotv.in/RAJNEWSMALAYALAM/index.m3u8
