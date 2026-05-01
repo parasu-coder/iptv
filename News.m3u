@@ -166,11 +166,11 @@ https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 #EXTINF:-1 tvg-logo="NewsNation.jpg" group-title="Hindi", News Nation
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 
-#EXTINF:-1 tvg-logo="GNT.jpg" group-title="Hindi", Good News Today
-https://cc-89m9zu7a2upfe.akamaized.net/hls/live/2016145/gnt/gntlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="NewsIndia24x7.jpg" group-title="Hindi", News India 24x7
+https://cdn-3.pishow.tv/live/273/master.m3u8
 
-#EXTINF:-1 tvg-logo="SadhnaPlusNews.jpg" group-title="Hindi", Sadhna Plus News
-https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="SudarshanNews.jpg" group-title="Hindi", Sudarshan News
+https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
 
 # --- WORLD ---
 #EXTINF:-1 tvg-logo="CNNInternational.jpg" group-title="World", CNN International
