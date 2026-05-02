@@ -166,11 +166,26 @@ https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 #EXTINF:-1 tvg-logo="NewsNation.jpg" group-title="Hindi", News Nation
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 
+#EXTINF:-1 tvg-logo="SudarshanNews.jpg" group-title="Hindi", Sudarshan News
+https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="CNewsBharat.jpg" group-title="Hindi", C news Bharat
+https://legitpro.co.in/cnews/cnews/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="BharatExpress.jpg" group-title="Hindi", Bharat Express
+https://stream1.livebox.co.in/VCAREhls/live.m3u8
+
 #EXTINF:-1 tvg-logo="NewsIndia24x7.jpg" group-title="Hindi", News India 24x7
 https://cdn-3.pishow.tv/live/273/master.m3u8
 
-#EXTINF:-1 tvg-logo="SudarshanNews.jpg" group-title="Hindi", Sudarshan News
-https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="Bharat24.jpg" group-title="Hindi", Bharat 24
+https://cdn.ottlive.co.in/bharat24/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="IndianNews24Hours.jpg" group-title="Hindi", Indian News 24 Hours
+https://legitpro.co.in:9898/indu/indu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="Samachar24.jpg" group-title="Hindi", Samachar24
+https://legitpro.co.in:9898/samachar24/samachar24/tracks-v1a1/mono.m3u8
 
 # --- WORLD ---
 #EXTINF:-1 tvg-logo="CNNInternational.jpg" group-title="World", CNN International
@@ -294,6 +309,9 @@ https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141
 
 #EXTINF:-1 tvg-logo="News18Bangla.jpg" group-title="Bangla", News 18 Bangla
 https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-logo="TV9Bangla.jpg" group-title="Bangla", TV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="CalcuttaNews.jpg" group-title="Bangla", Calcutta News
 https://live.legitpro.co.in/cnnnews/index.m3u8
