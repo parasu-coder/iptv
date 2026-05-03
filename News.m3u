@@ -83,8 +83,8 @@ https://live-cf-kalaignarnews.dailyhunt.in/master.m3u8
 #EXTINF:-1 tvg-logo="SathiyamTV.jpg" group-title="Tamil", Sathiyam TV
 https://live-cf-sathiyamtv.dailyhunt.in/master.m3u8
 
-# #EXTINF:-1 tvg-logo="JayaPlus.jpg" group-title="Tamil", Jaya Plus
-# https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
+#EXTINF:-1 tvg-logo="JayaPlus.jpg" group-title="Tamil", Jaya Plus
+https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
 
 # --- ENGLISH ---
 #EXTINF:-1 tvg-logo="CNNNews18.jpg" group-title="English", CNN News 18
