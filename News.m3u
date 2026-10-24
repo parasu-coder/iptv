@@ -204,10 +204,10 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="PressTV.jpg" group-title="World", Press TV Iran
-https://live.presstv.ir/hls/presstv.m3u8
+https://live.presstv.co.uk/hls/presstv.m3u8
 
 #EXTINF:-1 tvg-logo="i24NewsEnglish.jpg" group-title="World", i24 News English Israel
-https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8
+https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
 
 #EXTINF:-1 tvg-logo="GlobalNewsCanada.jpg" group-title="World", Global News Canada
 https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/live-audio_1=96000-video=2499968.m3u8
