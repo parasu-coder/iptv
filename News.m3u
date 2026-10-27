@@ -45,7 +45,7 @@ https://mumt04.tangotv.in/m18aqlK4RAJNEWSMALAYALAM/index.m3u8
 
 # --- TAMIL ---
 #EXTINF:-1 tvg-logo="PolimerNews.jpg" group-title="Tamil", Polimer News
-https://streams.tangotv.in/POLIMERNEWS/ORIGIN/index.m3u8
+https://mumt05.tangotv.in/87NeALx2POLIMERNEWS/index.m3u8
 
 #EXTINF:-1 tvg-logo="PuthiyaTalaimurai.jpg" group-title="Tamil", Puthiya Talaimurai
 https://mumt07.tangotv.in/zHjX9OFlPUTHIYAEXPRESS/index.m3u8
@@ -63,13 +63,13 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/
 https://streams.tangotv.in/NEWSTAMIL24X7/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-logo="MalaiMurasu.jpg" group-title="Tamil", Malai Murasu
-https://streams.tangotv.in/MALAIMURASUSEITHIGAL/ORIGIN/index.m3u8
+https://mumt04.tangotv.in/m18aqlK4MALAIMURASUSEITHIGAL/index.m3u8
 
 #EXTINF:-1 tvg-logo="NewsJ.jpg" group-title="Tamil", News J
 https://cdn-3.pishow.tv/live/1279/master.m3u8
 
 #EXTINF:-1 tvg-logo="MNadu.jpg" group-title="Tamil", M Nadu
-#https://mumt01.tangotv.in/MNADU/index.m3u8
+https://cloudcdnplayer.mslivestream.net/mslivecdn/mnadu/index.m3u8
 
 #EXTINF:-1 tvg-logo="JanamTVTamil.jpg" group-title="Tamil", Tamil Janam
 https://mumt01.tangotv.in/O5aw8Zn3JANAMTVTAMIL/index.m3u8
@@ -231,7 +231,7 @@ https://amg00453-amg00453c1-distrotv-us-7691.playouts.now.amagi.tv/playlist/amg0
 https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
 
 #EXTINF:-1 tvg-logo="CNN.jpg" group-title="World", CNN US
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+https://tvsen6.aynaott.com/cnn/index.m3u8
 
 #EXTINF:-1 tvg-logo="NBCNews.jpg" group-title="World", NBC News US
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
