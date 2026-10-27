@@ -23,7 +23,7 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8
 https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
 
 #EXTINF:-1 tvg-id="NewsMalayalam24x7.in@SD" group-title="Malayalam", News Malayalam 24x7
-https://cdn-3.pishow.tv/live/1629/master.m3u8
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cdb96065-b754-4c59-93c0-fe73f482439e/index.m3u8
 
 #EXTINF:-1 tvg-id="JanamNews.in@SD" group-title="Malayalam", Janam News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
@@ -66,7 +66,7 @@ https://streams.tangotv.in/NEWSTAMIL24X7/ORIGIN/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4MALAIMURASUSEITHIGAL/index.m3u8
 
 #EXTINF:-1 tvg-logo="NewsJ.jpg" group-title="Tamil", News J
-https://cdn-3.pishow.tv/live/1279/master.m3u8
+#https://cdn-3.pishow.tv/live/1279/master.m3u8
 
 #EXTINF:-1 tvg-logo="MNadu.jpg" group-title="Tamil", M Nadu
 https://cloudcdnplayer.mslivestream.net/mslivecdn/mnadu/index.m3u8
@@ -146,13 +146,13 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
 #EXTINF:-1 tvg-logo="TimesNowNavbharat.jpg" group-title="Hindi", Times Now Navbharat
-https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
+https://streams.tangotv.in/TIMESNOWNAVBHARAT/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-logo="RepublicBharat.jpg" group-title="Hindi", Republic Bharat
-https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
+https://streams.tangotv.in/REPUBLICBHARAT/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-logo="News24.jpg" group-title="Hindi", News 24
-https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3NEWS24/index.m3u8
 
 #EXTINF:-1 tvg-logo="TV9Bharatvarsh.jpg" group-title="Hindi", TV9 Bharatvarsh
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
