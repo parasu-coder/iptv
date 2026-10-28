@@ -37,11 +37,11 @@ https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8
 #EXTINF:-1 tvg-id="KairaliNews.in@SD" group-title="Malayalam", Kairali News
 https://mumt01.tangotv.in/O5aw8Zn3KAIRALINEWS/index.m3u8
 
+#EXTINF:-1 tvg-id="RajNewsMalayalam.in@SD" group-title="Malayalam", Raj News Malayalam
+https://mumt04.tangotv.in/m18aqlK4RAJNEWSMALAYALAM/index.m3u8
+
 #EXTINF:-1 tvg-id="ZeeMalayalamNews.in@SD" group-title="Malayalam", Zee Malayalam News
 #https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
-
-# #EXTINF:-1 tvg-id="RajNewsMalayalam.in@SD" group-title="Malayalam", Raj News Malayalam
-https://mumt04.tangotv.in/m18aqlK4RAJNEWSMALAYALAM/index.m3u8
 
 # --- TAMIL ---
 #EXTINF:-1 tvg-logo="PolimerNews.jpg" group-title="Tamil", Polimer News
@@ -65,23 +65,23 @@ https://streams.tangotv.in/NEWSTAMIL24X7/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="MalaiMurasu.jpg" group-title="Tamil", Malai Murasu
 https://mumt04.tangotv.in/m18aqlK4MALAIMURASUSEITHIGAL/index.m3u8
 
-#EXTINF:-1 tvg-logo="NewsJ.jpg" group-title="Tamil", News J
-#https://cdn-3.pishow.tv/live/1279/master.m3u8
-
 #EXTINF:-1 tvg-logo="MNadu.jpg" group-title="Tamil", M Nadu
 https://cloudcdnplayer.mslivestream.net/mslivecdn/mnadu/index.m3u8
 
+#EXTINF:-1 tvg-logo="NewsJ.jpg" group-title="Tamil", News J
+https://cdn.pishow.tv/ott/live/1279/master.m3u8
+
 #EXTINF:-1 tvg-logo="JanamTVTamil.jpg" group-title="Tamil", Tamil Janam
 https://mumt01.tangotv.in/O5aw8Zn3JANAMTVTAMIL/index.m3u8
-
-#EXTINF:-1 tvg-logo="ZeeTamil.jpg" group-title="Tamil", Zee Tamil News
-#https://dpkvdnzbeen1l.cloudfront.net/index_2.m3u8
 
 #EXTINF:-1 tvg-logo="KalaignarSeithigal.jpg" group-title="Tamil", Kalaignar Seithigal
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/KalaignarSeithigal.m3u8
 
 #EXTINF:-1 tvg-logo="SathiyamTV.jpg" group-title="Tamil", Sathiyam TV
 https://mumt07.tangotv.in/zHjX9OFlSATHIYAMTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="ZeeTamil.jpg" group-title="Tamil", Zee Tamil News
+#https://dpkvdnzbeen1l.cloudfront.net/index_2.m3u8
 
 #EXTINF:-1 tvg-logo="JayaPlus.jpg" group-title="Tamil", Jaya Plus
 #https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
@@ -123,6 +123,9 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/in
 #EXTINF:-1 tvg-logo="SansadTvTwo.jpg" group-title="English", Sansad TV 2 Rajya Sabha
 https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
 
+#EXTINF:-1 tvg-logo="NENews.jpg" group-title="English", NE News
+https://mumt05.tangotv.in/87NeALx2NENEWS/index.m3u8
+
 #EXTINF:-1 tvg-logo="ToIGlobal.jpg" group-title="English", ToI Global
 https://live.sli.ke/live/npnhm84gz9/master.m3u8
 
@@ -133,23 +136,29 @@ https://mumbai-edge.smartplaytv.in/CVREnglishNews/index.m3u8
 #EXTINF:-1 tvg-logo="IndiaTV.jpg" group-title="Hindi", India TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
 
-#EXTINF:-1 tvg-logo="News18India.jpg" group-title="Hindi", News 18 India
-https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8
-
 #EXTINF:-1 tvg-logo="ABPNews.jpg" group-title="Hindi", ABP News
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
-
-#EXTINF:-1 tvg-logo="NDTVIndia.jpg" group-title="Hindi", NDTV India
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-
-#EXTINF:-1 tvg-logo="AajTak.jpg" group-title="Hindi", Aaj Tak
-https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
 #EXTINF:-1 tvg-logo="TimesNowNavbharat.jpg" group-title="Hindi", Times Now Navbharat
 https://streams.tangotv.in/TIMESNOWNAVBHARAT/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-logo="RepublicBharat.jpg" group-title="Hindi", Republic Bharat
 https://streams.tangotv.in/REPUBLICBHARAT/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-logo="AajTak.jpg" group-title="Hindi", Aaj Tak
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+
+#EXTINF:-1 tvg-logo="News18India.jpg" group-title="Hindi", News 18 India
+https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-logo="NDTVIndia.jpg" group-title="Hindi", NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+
+#EXTINF:-1 tvg-logo="IndiaAhead.jpg" group-title="Hindi", India Ahead
+https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8
+
+#EXTINF:-1 tvg-logo="IndiaNews.jpg" group-title="Hindi", India News
+https://mumt03.tangotv.in/Dsly5z3HINDIANEWS/index.m3u8
 
 #EXTINF:-1 tvg-logo="News24.jpg" group-title="Hindi", News 24
 https://mumt01.tangotv.in/O5aw8Zn3NEWS24/index.m3u8
@@ -176,15 +185,15 @@ https://legitpro.co.in/cnews/cnews/tracks-v1a1/mono.m3u8
 https://stream1.livebox.co.in/VCAREhls/live.m3u8
 
 #EXTINF:-1 tvg-logo="NewsIndia24x7.jpg" group-title="Hindi", News India 24x7
-https://cdn-3.pishow.tv/live/273/master.m3u8
+https://cdn.pishow.tv/ott/live/273/master.m3u8
 
 #EXTINF:-1 tvg-logo="Bharat24.jpg" group-title="Hindi", Bharat 24
-https://cdn.ottlive.co.in/bharat24/tracks-v1a1/mono.m3u8
+https://mumt06.tangotv.in/qYyB8fXVBHARAT24/index.m3u8
 
-#EXTINF:-1 tvg-logo="IndianNews24Hours.jpg" group-title="Hindi", Indian News 24 Hours
-https://legitpro.co.in:9898/indu/indu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="BharatExpress.jpg" group-title="Hindi", Bharat Express
+https://mumt07.tangotv.in/zHjX9OFlBHARATEXPRESS/index.m3u8
 
-#EXTINF:-1 tvg-logo="Samachar24.jpg" group-title="Hindi", Samachar24
+#EXTINF:-1 tvg-logo="Samachar24.jpg" group-title="Hindi", Samachar 24 HD
 https://legitpro.co.in:9898/samachar24/samachar24/tracks-v1a1/mono.m3u8
 
 # --- WORLD ---
@@ -225,7 +234,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
 #EXTINF:-1 tvg-logo="Reuters60.jpg" group-title="World", The Reuters 60
-https://amg00453-amg00453c1-distrotv-us-7691.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-distrotvus/playlist.m3u8
+#https://amg00453-amg00453c1-distrotv-us-7691.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-distrotvus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="ABCNewsUS.jpg" group-title="World", ABC News US
 https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
@@ -240,7 +249,7 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 #EXTINF:-1 tvg-logo="FoxNews.jpg" group-title="World", FOX News US
-https://stream.livenewsplay.com:9555/hls/foxnewssd/index.m3u8
+#https://p13.usnlive.com/stream/foxnews.m3u8
 
 #EXTINF:-1 tvg-logo="USAToday.jpg" group-title="World", USA Today US
 https://usatodaynews-samsungus-tsv2-ghkcu.amagi.tv/playlist.m3u8
@@ -252,7 +261,7 @@ https://thefirst-oando.amagi.tv/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="SkyNews.jpg" group-title="World", Sky News UK
-https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
 #EXTINF:-1 tvg-logo="DeutscheWelle.jpg" group-title="World", DW News Germany
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
@@ -305,7 +314,7 @@ https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
 
 #EXTINF:-1 tvg-logo="RBangla.jpg" group-title="Bangla", Republic Bangla
-https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
+https://streams.tangotv.in/RBANGLA/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-logo="News18Bangla.jpg" group-title="Bangla", News 18 Bangla
 https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
