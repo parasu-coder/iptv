@@ -1,6 +1,7 @@
 #EXTM3U
 
 # --- MALAYALAM ---
+
 #EXTINF:-1 tvg-id="BigTVMalayalam.in@SD" group-title="Malayalam", Big TV 24x7
 https://stream.ottlive.co.in/bigtvmalayalam/index.m3u8
 
@@ -44,6 +45,7 @@ https://mumt04.tangotv.in/m18aqlK4RAJNEWSMALAYALAM/index.m3u8
 #https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
 
 # --- TAMIL ---
+
 #EXTINF:-1 tvg-logo="PolimerNews.jpg" group-title="Tamil", Polimer News
 https://mumt05.tangotv.in/87NeALx2POLIMERNEWS/index.m3u8
 
@@ -87,6 +89,7 @@ https://mumt07.tangotv.in/zHjX9OFlSATHIYAMTV/index.m3u8
 #https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
 
 # --- ENGLISH ---
+
 #EXTINF:-1 tvg-logo="CNNNews18.jpg" group-title="English", CNN News 18
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/master.m3u8
 
@@ -133,6 +136,7 @@ https://live.sli.ke/live/npnhm84gz9/master.m3u8
 https://mumbai-edge.smartplaytv.in/CVREnglishNews/index.m3u8
 
 # --- HINDI ---
+
 #EXTINF:-1 tvg-logo="IndiaTV.jpg" group-title="Hindi", India TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
 
@@ -197,6 +201,7 @@ https://mumt07.tangotv.in/zHjX9OFlBHARATEXPRESS/index.m3u8
 https://legitpro.co.in:9898/samachar24/samachar24/tracks-v1a1/mono.m3u8
 
 # --- WORLD ---
+
 #EXTINF:-1 tvg-logo="CNNInternational.jpg" group-title="World", CNN International
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 
@@ -276,6 +281,7 @@ https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 
 # --- BUSINESS ---
+
 #EXTINF:-1 tvg-logo="CNBCTV18.jpg" group-title="Business", CNBC TV18
 https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
 
