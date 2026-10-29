@@ -105,20 +105,23 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/in
 #EXTINF:-1 tvg-logo="IndiaToday.jpg" group-title="English", India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
 
-#EXTINF:-1 tvg-logo="DDIndia.jpg" group-title="English", DD India
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
-
 #EXTINF:-1 tvg-logo="News X.jpg" group-title="English", News X
 https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8
-
-#EXTINF:-1 tvg-logo="Mirror Now.jpg" group-title="English", Mirror Now
-https://d179muqh6u5263.cloudfront.net/master.m3u8
 
 #EXTINF:-1 tvg-logo="News 9.jpg" group-title="English", News 9
 https://amg01106-amg01106c3-amgplt0844.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="Mirror Now.jpg" group-title="English", Mirror Now
+https://d179muqh6u5263.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-logo="NewsXWorld.jpg" group-title="English", News X World
+https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8
+
 #EXTINF:-1 tvg-logo="Wion.jpg" group-title="English", Wion
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
+
+#EXTINF:-1 tvg-logo="DDIndia.jpg" group-title="English", DD India
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
 
 #EXTINF:-1 tvg-logo="SansadTvOne.jpg" group-title="English", Sansad TV 1 Lok Sabha
 https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8
