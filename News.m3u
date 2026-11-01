@@ -90,52 +90,52 @@ https://mumt07.tangotv.in/zHjX9OFlSATHIYAMTV/index.m3u8
 
 # --- ENGLISH ---
 
-#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-logo="logos/CNNNews18.jpg" group-title="English", CNN News 18
+#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN News18" tvg-logo="Logos/English/CNNNews18.jpg" group-title="English", CNN News 18
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/master.m3u8
 
-#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-logo="logos/CNNNews18.jpg" group-title="English", Times Now
+#EXTINF:-1 tvg-id="TimesNow.in" tvg-name="Times Now" tvg-logo="logos/English/TimesNow.jpg" group-title="English", Times Now
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8
 
-#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-logo="logos/CNNNews18.jpg" group-title="English", NDTV 24x7
+#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-logo="logos/English/TimesNow.jpg" group-title="English", NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
 
-#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-logo="logos/CNNNews18.jpg" group-title="English", Republic TV
+#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-logo="logos/English/TimesNow.jpg" group-title="English", Republic TV
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
 
-#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-logo="logos/CNNNews18.jpg" group-title="English", India Today
+#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-logo="logos/English/TimesNow.jpg" group-title="English", India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
 
-#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-logo="logos/CNNNews18.jpg" group-title="English", News X
+#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" ttvg-logo="logos/English/TimesNow.jpg" group-title="English", News X
 https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8
 
-#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-logo="logos/CNNNews18.jpg" group-title="English", News 9
+#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-logo="logos/English/TimesNow.jpg" group-title="English", News 9
 https://amg01106-amg01106c3-amgplt0844.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-logo="logos/CNNNews18.jpg" group-title="English", Mirror Now
+#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-logo="logos/English/TimesNow.jpg" group-title="English", Mirror Now
 https://d179muqh6u5263.cloudfront.net/master.m3u8
 
-#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-logo="logos/CNNNews18.jpg" group-title="English", News X World
+#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-logo="logos/English/TimesNow.jpg" group-title="English", News X World
 https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8
 
-#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-logo="logos/CNNNews18.jpg" group-title="English", Wion
+#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-logo="logos/English/TimesNow.jpg" group-title="English", Wion
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
 
-#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-logo="logos/CNNNews18.jpg" group-title="English", DD India
+#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-logo="logos/English/TimesNow.jpg" group-title="English", DD India
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
 
-#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-logo="logos/CNNNews18.jpg" group-title="English", Sansad TV 1 Lok Sabha
+#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-logo="logos/English/TimesNow.jpg" group-title="English", Sansad TV 1 Lok Sabha
 https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8
 
-#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-logo="logos/CNNNews18.jpg" group-title="English", Sansad TV 2 Rajya Sabha
+#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-logo="logos/English/TimesNow.jpg" group-title="English", Sansad TV 2 Rajya Sabha
 https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
 
-#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-logo="logos/CNNNews18.jpg" group-title="English", NE News
+#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-logo="logos/English/TimesNow.jpg" group-title="English", NE News
 https://mumt05.tangotv.in/87NeALx2NENEWS/index.m3u8
 
-#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-logo="logos/CNNNews18.jpg" group-title="English", ToI Global
+#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-logo="logos/English/TimesNow.jpg" group-title="English", ToI Global
 https://live.sli.ke/live/npnhm84gz9/master.m3u8
 
-#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-logo="logos/CNNNews18.jpg" group-title="English", CVR News English
+#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-logo="logos/English/TimesNow.jpg" group-title="English", CVR News English
 https://mumbai-edge.smartplaytv.in/CVREnglishNews/index.m3u8
 
 # --- HINDI ---
