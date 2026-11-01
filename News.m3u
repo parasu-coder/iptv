@@ -85,7 +85,7 @@ https://mumt07.tangotv.in/zHjX9OFlSATHIYAMTV/index.m3u8
 #EXTINF:-1 tvg-logo="ZeeTamil.jpg" group-title="Tamil", Zee Tamil News
 #https://dpkvdnzbeen1l.cloudfront.net/index_2.m3u8
 
-#EXTINF:-1 tvg-logo="JayaPlus.jpg" group-title="Tamil", Jaya Plus
+# #EXTINF:-1 tvg-logo="JayaPlus.jpg" group-title="Tamil", Jaya Plus
 #https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
 
 # --- ENGLISH ---
@@ -256,7 +256,7 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 #EXTINF:-1 tvg-logo="CBSNews.jpg" group-title="World", CBS News US
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 tvg-logo="FoxNews.jpg" group-title="World", FOX News US
+# #EXTINF:-1 tvg-logo="FoxNews.jpg" group-title="World", FOX News US
 #https://p13.usnlive.com/stream/foxnews.m3u8
 
 #EXTINF:-1 tvg-logo="USAToday.jpg" group-title="World", USA Today US
